@@ -1,3 +1,6 @@
+#The purpose of this script is to fishnet a large DEM layer, run the contours tool on each fishnet, and then append them all together.
+# It sounds simple, but required several nested for loops, lists, and time to get right.
+
 import os
 import sys
 import string
