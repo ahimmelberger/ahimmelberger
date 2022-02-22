@@ -9,7 +9,8 @@ My past research and work has focused on remaking a GIS recreation department in
 conversion in Southeast Asia, revitalizing the Hadwen Arboretum at Clark University, classifying solar fields using machine learning, and 
 analyzing satellite imagery of sea ice in Pacific walrus habitat.
 
--Feel free to take a look at some of the scripts I've worked on in the past! If you'd like to take a look at my portfolio, it can be found at:
+-Feel free to take a look at some of the scripts I've worked on in the past! Most of these were written in grad school or while working for 
+the Center for Environmental Management of Military Lands in Alaska! If you'd like to take a look at my portfolio, it can be found at:
 https://anthonyhimmelberger.weebly.com/
 
 <!---
