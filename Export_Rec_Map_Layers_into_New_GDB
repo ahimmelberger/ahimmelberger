@@ -1,3 +1,5 @@
+#This script took all of the layers within an ArcMap document and exported them into a new gdb to easily share the layers with a coworker.
+
 import os
 import arcpy
 
