@@ -1,3 +1,6 @@
+#The purpose of this script was to iterate through several mxds and update the logos on the map with a new jpeg. Additionally, the text element that states
+#when the map was last updated is fixed to show the current time and day
+
 import os
 import arcpy
 import datetime
