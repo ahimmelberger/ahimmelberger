@@ -1,4 +1,5 @@
 -Hello!, I’m Anthony Himmmelberger
+
 -I received my Master's from Clark University's GIScience program and was most recently working in Mammoth, Wyoming as 
 the GIS Lead for the Geology Program at Yellowstone National Park. In this position I focused on maintaining and updating 
 our GIS database using AGOL, ArcPro, and ArcGIS Collector. Additionally, I did field work varying from Thermal Area Preservation 
